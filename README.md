@@ -5,12 +5,10 @@ This project is a simple Clinic Management System written in the C programming l
 ## Table of Contents
 
 1. [Features](#features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Admin Mode](#admin-mode)
-5. [User Mode](#user-mode)
-6. [Contributing](#contributing)
-7. [License](#license)
+2. [Usage](#usage)
+3. [Admin Mode](#admin-mode)
+4. [User Mode](#user-mode)
+5. [Contributing](#contributing)
 
 ## Features
 
@@ -59,7 +57,3 @@ No password is required for User mode. The following features are available:
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
