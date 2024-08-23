@@ -8,7 +8,6 @@ This project is a simple Clinic Management System written in the C programming l
 2. [Usage](#usage)
 3. [Admin Mode](#admin-mode)
 4. [User Mode](#user-mode)
-5. [Contributing](#contributing)
 
 ## Features
 
@@ -53,7 +52,3 @@ No password is required for User mode. The following features are available:
 1. **View Patient Record**: Enter the patient's ID to view their basic information.
 
 2. **View Today's Reservations**: This will display all reservations, including the patient ID for each reserved slot.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
