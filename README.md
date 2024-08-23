@@ -23,34 +23,6 @@ This project is a simple Clinic Management System written in the C programming l
   - View patient records.
   - Check today's appointment reservations.
 
-## Installation
-
-To run this project, you will need a C compiler installed on your system. You can use GCC, which is available on most platforms.
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/clinic-management-system.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd clinic-management-system
-    ```
-
-3. Compile the code:
-
-    ```bash
-    gcc clinic_management_system.c -o clinic_management_system
-    ```
-
-4. Run the executable:
-
-    ```bash
-    ./clinic_management_system
-    ```
-
 ## Usage
 
 Upon running the program, the user will be prompted to choose between Admin mode and User mode.
